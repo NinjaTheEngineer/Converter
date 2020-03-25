@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources android:layout_height="wrap_content" android:layout_width="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="from_array">
+        <item>Milliliters</item>
+        <item>Grams</item>
+        <item>Ozs</item>
+        <item>Pounds</item>
+        <item>Cups</item>
+    </string-array>
+</resources>
